@@ -90,6 +90,7 @@ interoperability between tools
 * Justin Abrahms ([@justinabrahms](https://github.com/justinabrahms)), eBay
 * Brett Smith ([@xbcsmith](https://github.com/xbcsmith)), SAS Institute Inc.
 * Muktesh Mishra ([@mukteshkrmishra](https://github.com/mukteshkrmishra)), Adobe
+* Dadisi Sanyika ([@dsanyika](https://github.com/dsanyika)), Apple, Inc.
 
 ## New Members
 
